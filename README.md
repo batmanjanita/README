@@ -1,4 +1,4 @@
-# README
+# ABOUT ME
 
 Fourth year student at Savonia University of Applied Sciences | Bachelor of Engineering Computer Science
 
